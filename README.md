@@ -1,4 +1,4 @@
-# Fit Track
+# GymShark
 ## Getting Started
 ### Setup Workspace
 - Clone the repository
